@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "50%",
+  "base_artist": "35.7",
+  "createdAt": "2025-12-14T07:14:07.729961Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "50/Banks",
+      "artist": "50 Cent feat. G Unit",
+      "has_synced": false,
+      "path": "select/01_50_Banks_50_Cent_feat._G_Unit.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "50 Bars",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/02_50_Bars_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "50 Shot Ya",
+      "artist": "50 Cent",
+      "has_synced": false,
+      "path": "select/03_50_Shot_Ya_50_Cent.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "50 Cent - Be a Gentleman (Dissin Jay-Z)",
+      "artist": "P Cutta",
+      "has_synced": false,
+      "path": "select/04_50_Cent_-_Be_a_Gentleman_(Dissin_Jay-Z)_P_Cutta.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Clue/50",
+      "artist": "50 Cent feat. G Unit",
+      "has_synced": true,
+      "path": "select/05_Clue_50_50_Cent_feat._G_Unit.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Clue\u000050",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/06_Clue\u000050_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hvite menn som pusher 50",
+      "artist": "Karpe",
+      "has_synced": true,
+      "path": "select/07_Hvite_menn_som_pusher_50_Karpe.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hvite menn som pusher 50",
+      "artist": "Karpe Diem",
+      "has_synced": true,
+      "path": "select/08_Hvite_menn_som_pusher_50_Karpe_Diem.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "50 Cent Just F#cking Around",
+      "artist": "50 Cent feat. DJ Whoo Kid",
+      "has_synced": false,
+      "path": "select/09_50_Cent_Just_F_cking_Around_50_Cent_feat._DJ_Whoo_Kid.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "This Is 50",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/10_This_Is_50_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "50 Ways to Leave Your Lover",
+      "artist": "Paul Simon",
+      "has_synced": true,
+      "path": "select/11_50_Ways_to_Leave_Your_Lover_Paul_Simon.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Hate Everything - 50 Number Ones Version",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/12_I_Hate_Everything_-_50_Number_Ones_Version_George_Strait.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Hate Everything (50 Number Ones Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/13_I_Hate_Everything_(50_Number_Ones_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Crack A Bottle (Feat. Dr. Dre & 50 Cent)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/14_Crack_A_Bottle_(Feat._Dr._Dre_&_50_Cent)_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Krølla 50-lapp y'all",
+      "artist": "Karpe Diem",
+      "has_synced": true,
+      "path": "select/15_Krølla_50-lapp_y'all_Karpe_Diem.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "This Is 50 (Produced by Black Jeruz and SHA MONEY XL for Teamwork Music, Inc.\u0000BPM)",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/16_This_Is_50_(Produced_by_Black_Jeruz_and_SHA_MONEY_XL_for_Teamwork_Music,_Inc.\u0000BP_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Magic Stick (Feat. 50 Cent)",
+      "artist": "Lil' Kim",
+      "has_synced": true,
+      "path": "select/17_Magic_Stick_(Feat._50_Cent)_Lil'_Kim.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Work It (feat. 50 Cent) [Remix]",
+      "artist": "Missy Elliott featuring 50 Cent & 50 Cent)",
+      "has_synced": false,
+      "path": "select/18_Work_It_(feat._50_Cent)_[Remix]_Missy_Elliott_featuring_50_Cent_&_50_Cent).txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Work It (Remix) (feat. 50 Cent)",
+      "artist": "Missy Elliott",
+      "has_synced": false,
+      "path": "select/19_Work_It_(Remix)_(feat._50_Cent)_Missy_Elliott.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "50%",
+      "artist": "35.7",
+      "has_synced": false,
+      "path": "select/pl_01_50_35.7.txt"
+    }
+  ]
+}
